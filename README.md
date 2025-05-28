@@ -1,9 +1,4 @@
-<div align="center">
-  <h2 align="center">Network Forensics Report</h2>
- 
 
-
-</div>
 
 ## Abstract
 
